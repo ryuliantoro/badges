@@ -1,6 +1,6 @@
 # Badges
 
-These badges are made for those who want to put badges on their sites.
+These badges are made for users who want to put badges on their sites.
 Two badges are available:
 - Build with Frappe
 - Powered by ERPNext
